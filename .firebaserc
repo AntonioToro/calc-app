@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "calc-app-atl",
+    "react-calculator": "calc-app-atl"
+  }
+}
