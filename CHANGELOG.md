@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/AntonioToro/calc-app/compare/v1.0.0...v1.1.0) (2023-01-04)
+
+
+### Features
+
+* **GitHub:** :rocket: Add automated GitHub Release creation ([3b9c90f](https://github.com/AntonioToro/calc-app/commit/3b9c90f3b6f948adebf6576d3965be1c082bb12f))
+* **GitHub:** :wrench: Add new template to PR ([e856f7d](https://github.com/AntonioToro/calc-app/commit/e856f7d42f3f2d2bd0f60e63bec2353b4d14695e))
+* **GitHub:** :wrench: Change file template PR ([242461b](https://github.com/AntonioToro/calc-app/commit/242461b9a3c339be67ee290cb3700cf0075b8c48))
+
 ## 1.0.0 (2023-01-04)
 
 
