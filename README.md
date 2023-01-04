@@ -1,5 +1,5 @@
 # calc-app 
-![Version badge](https://img.shields.io/badge/version-1.0.0-blue) ![Status badge](https://img.shields.io/badge/status-success-green) ![Npm badge](https://img.shields.io/badge/node-v14.0.22-blue) ![License badge](https://img.shields.io/badge/license-MIT-yellow)
+![Version badge](https://img.shields.io/badge/version-v1.0.0-blue)  ![Npm badge](https://img.shields.io/badge/node-v14.0.22-blue) ![Status badge](https://img.shields.io/badge/status-success-green) ![License badge](https://img.shields.io/badge/license-MIT-yellow)
 
 >Realiza todos tus calculos haciendo uso de esta calculadora desarrollada en ReactJs.
 
@@ -22,9 +22,10 @@
    `npm build`
 
 ## 🛠️ Construido con
-* [ReactJs](https://es.reactjs.org/) (16.13.1) - El framework web usado.
-* [Lodash](https://lodash.com/) (4.2.0) - Libreria con utilidades de JavaScript.
-* [Prop-Types](https://www.npmjs.com/package/prop-types) (15.7.2) - Libreria de tipados de las propiedades de los componentes.
+* [ReactJs](https://es.reactjs.org/) (v16.13.1) - El framework web usado.
+* [Lodash](https://lodash.com/) (v4.2.0) - Libreria con utilidades de JavaScript.
+* [Prop-Types](https://www.npmjs.com/package/prop-types) (v15.7.2) - Libreria de tipados de las propiedades de los componentes.
+* [Standard Version](https://www.npmjs.com/package/standard-version) (v9.5.0) - Libreria para el control de versiones de la aplicación.
 
 ## 📄 Licencia
 Copyright © 2022 [AntonioToro](https://github.com/AntonioToro)
