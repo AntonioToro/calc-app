@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/AntonioToro/calc-app/compare/v1.2.0...v1.3.0) (2023-01-04)
+
+
+### Features
+
+* **GitHub:** :wrench: Update script to Publish New Release ([868678e](https://github.com/AntonioToro/calc-app/commit/868678e13f707c66c45eec9ebc6ceb86380623c4))
+
 ## [1.2.0](https://github.com/AntonioToro/calc-app/compare/v1.1.0...v1.2.0) (2023-01-04)
 
 
