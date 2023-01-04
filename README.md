@@ -1,11 +1,11 @@
 # calc-app 
-![Version badge](https://img.shields.io/badge/version-v1.0.0-blue)  ![Npm badge](https://img.shields.io/badge/node-v14.0.22-blue) ![Status badge](https://img.shields.io/badge/status-success-green) ![License badge](https://img.shields.io/badge/license-MIT-yellow)
+![Version badge](https://img.shields.io/badge/version-v1.1.0-blue)  ![Node badge](https://img.shields.io/badge/node-v18.12.1-blue) ![Npm badge](https://img.shields.io/badge/npm-v9.2.0-blue) ![Status badge](https://img.shields.io/badge/status-success-green) ![License badge](https://img.shields.io/badge/license-MIT-yellow)
 
 >Realiza todos tus calculos haciendo uso de esta calculadora desarrollada en ReactJs.
 
 ![calc-app](public/img/Captura%20de%20pantalla%20de%202022-05-10%2020-51-01.png)
 
-[DEMO](https://calc-app-atl.firebaseapp.com/)
+[DEMO](https://antoniotoro.github.io/calc-app/)
 
 
 ## 🔧 Instalación

@@ -1,5 +1,6 @@
 {
   "name": "calc-app",
+  "homepage": "https://[USERNAME GITHUB].github.io/calc-app/",
   "version": "1.1.0",
   "private": true,
   "dependencies": {
@@ -10,17 +11,19 @@
     "@types/react-dom": "^16.9.8",
     "lodash.words": "^4.2.0",
     "prop-types": "^15.7.2",
-    "react": "^16.13.1",
+    "react": "^18.2.0",
     "react-dom": "^16.13.1",
     "react-scripts": "2.1.8",
     "typescript": "^3.9.6"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "release": "standard-version"
+    "release": "standard-version",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -32,6 +35,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "standard-version": "^9.5.0"
   }
 }

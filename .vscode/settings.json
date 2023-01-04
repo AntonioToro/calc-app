@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "Config",
-        "GitHub"
+        "GitHub",
+        "libraries"
     ]
 }
