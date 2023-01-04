@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file. See [standa
 * **GitHub:** :rocket: Resolve fail to launch draft-new-release.yml ([807e753](https://github.com/AntonioToro/calc-app/commit/807e7535187fc7368f17b3d0dc93ea1b5ed8d314))
 * **GitHub:** :wrench: Add new template to PR ([e856f7d](https://github.com/AntonioToro/calc-app/commit/e856f7d42f3f2d2bd0f60e63bec2353b4d14695e))
 * **GitHub:** :wrench: Change file template PR ([242461b](https://github.com/AntonioToro/calc-app/commit/242461b9a3c339be67ee290cb3700cf0075b8c48))
+* **GitHub:** :wrench: Change logic script Publish New Release ([48dc44e](https://github.com/AntonioToro/calc-app/commit/48dc44e570bf57a9783649f9954952e2c4005694))
 * **GitHub:** :wrench: Update script to Publish New Release ([f81fa63](https://github.com/AntonioToro/calc-app/commit/f81fa6310d514adf7329c1309c76c72cfffc0e27))
 * **GitHub:** :wrench: Update script to Publish New Release ([c2fd5c4](https://github.com/AntonioToro/calc-app/commit/c2fd5c461e166a62a6411df33856e3e5111905be))
 * **GitHub:** :wrench: Update script to Publish New Release ([f1768d9](https://github.com/AntonioToro/calc-app/commit/f1768d9589b1f83892a4e4a3a296973ca74cc4da))
