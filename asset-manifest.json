@@ -1,13 +1,13 @@
 {
-  "main.css": "/atjl-calc-app/static/css/main.c368f4c7.chunk.css",
-  "main.js": "/atjl-calc-app/static/js/main.fb7b2462.chunk.js",
-  "main.js.map": "/atjl-calc-app/static/js/main.fb7b2462.chunk.js.map",
-  "runtime~main.js": "/atjl-calc-app/static/js/runtime~main.e59f5f49.js",
-  "runtime~main.js.map": "/atjl-calc-app/static/js/runtime~main.e59f5f49.js.map",
-  "static/js/2.bfc623bc.chunk.js": "/atjl-calc-app/static/js/2.bfc623bc.chunk.js",
-  "static/js/2.bfc623bc.chunk.js.map": "/atjl-calc-app/static/js/2.bfc623bc.chunk.js.map",
-  "index.html": "/atjl-calc-app/index.html",
-  "precache-manifest.69bf7ac73093d389faa6e47b6b8e9bd1.js": "/atjl-calc-app/precache-manifest.69bf7ac73093d389faa6e47b6b8e9bd1.js",
-  "service-worker.js": "/atjl-calc-app/service-worker.js",
-  "static/css/main.c368f4c7.chunk.css.map": "/atjl-calc-app/static/css/main.c368f4c7.chunk.css.map"
+  "main.css": "/calc-app/static/css/main.c368f4c7.chunk.css",
+  "main.js": "/calc-app/static/js/main.fb7b2462.chunk.js",
+  "main.js.map": "/calc-app/static/js/main.fb7b2462.chunk.js.map",
+  "runtime~main.js": "/calc-app/static/js/runtime~main.8c7d8dec.js",
+  "runtime~main.js.map": "/calc-app/static/js/runtime~main.8c7d8dec.js.map",
+  "static/js/2.bfc623bc.chunk.js": "/calc-app/static/js/2.bfc623bc.chunk.js",
+  "static/js/2.bfc623bc.chunk.js.map": "/calc-app/static/js/2.bfc623bc.chunk.js.map",
+  "index.html": "/calc-app/index.html",
+  "precache-manifest.7078a460c0ebd2dae53bcc9095ce1acf.js": "/calc-app/precache-manifest.7078a460c0ebd2dae53bcc9095ce1acf.js",
+  "service-worker.js": "/calc-app/service-worker.js",
+  "static/css/main.c368f4c7.chunk.css.map": "/calc-app/static/css/main.c368f4c7.chunk.css.map"
 }

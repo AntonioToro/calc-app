@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/atjl-calc-app/precache-manifest.69bf7ac73093d389faa6e47b6b8e9bd1.js"
+  "/calc-app/precache-manifest.7078a460c0ebd2dae53bcc9095ce1acf.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/atjl-calc-app/index.html", {
+workbox.routing.registerNavigationRoute("/calc-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
