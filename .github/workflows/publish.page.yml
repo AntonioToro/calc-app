@@ -1,5 +1,5 @@
 
-name: Deply Publish Page
+name: Deploy Publish Page
 
 on:
   push:

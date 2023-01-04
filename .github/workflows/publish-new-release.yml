@@ -1,5 +1,5 @@
 
-name: publish-new-release
+name: Publish New Release
 
 on:
   push:
