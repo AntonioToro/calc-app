@@ -1,6 +1,6 @@
 {
   "name": "calc-app",
-  "version": "1.4.0",
+  "version": null,
   "private": true,
   "dependencies": {
     "@types/jest": "^26.0.4",
