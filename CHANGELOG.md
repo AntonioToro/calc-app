@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/AntonioToro/calc-app/compare/v1.1.0...v1.2.0) (2023-01-04)
+
+
+### Features
+
+* **GitHub:** :rocket: Resolve fail to launch draft-new-release.yml ([807e753](https://github.com/AntonioToro/calc-app/commit/807e7535187fc7368f17b3d0dc93ea1b5ed8d314))
+
 ## [1.1.0](https://github.com/AntonioToro/calc-app/compare/v1.0.0...v1.1.0) (2023-01-04)
 
 
