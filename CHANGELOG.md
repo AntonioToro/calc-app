@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.4](https://github.com/AntonioToro/calc-app/compare/v1.2.3...v1.2.4) (2023-01-05)
+
+
+### Features
+
+* **GitHub:** :wrench: add base_branch in script publish.page.yml ([430a50d](https://github.com/AntonioToro/calc-app/commit/430a50df51e20d337d99b3b1068048cb67d73462))
+
 ### [1.2.3](https://github.com/AntonioToro/calc-app/compare/v1.0.0...v1.2.3) (2023-01-05)
 
 
