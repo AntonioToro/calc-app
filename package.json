@@ -24,6 +24,12 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "standard-version": {
+    "scripts": {
+      "postbump": "node .scripts/update-version-badge.js",
+      "postcommit": "git add README.md && git commit --amend --no-edit"
+    }
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
