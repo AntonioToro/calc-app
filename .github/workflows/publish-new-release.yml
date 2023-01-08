@@ -9,9 +9,13 @@ on:
 jobs:
   new-release:
     name: "Publish New Release"
-    runs-on: "ubuntu-latest"
+    runs-on: "ubuntu-22.04"
+    if: github.repository_owner == 'AntonioToro'
     steps:
-      - uses: "marvinpinto/action-automatic-releases@latest"
+      - run: |
+          git config user.name AntonioToro
+      - name: Generate New Version 🔖 
+        uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: false
