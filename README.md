@@ -10,15 +10,15 @@
 
 ## 🔧 Instalación.
 1. Clona este proyecto.
-2. Ve a la carpeta del proyecto:
+2. Ve a la carpeta del proyecto:\
     `cd calc-app`
-3. Instala las depedencias del proyecto:
+3. Instala las depedencias del proyecto:\
     `npm install`
-4. Arranque el proyecto:
+4. Arranque el proyecto:\
    `npm start`
 
 ##  :hammer: Despliegue.
-1. Una vez instaladas las depedencias, puedes hacer la build :
+1. Una vez instaladas las depedencias, puedes hacer la build :\
    `npm build`
 
 ## 📚 Librerias del Proyecto.
@@ -35,10 +35,10 @@
 
 ## 🔖 Generar una nueva versión.
 Para generar una nueva versión de la app hacemos uso de la libreria [standard-version](https://www.npmjs.com/package/standard-version).
-Cuando queramos generar una nueva versión de la app ejecutaremos el siguiente comando:
-`npm run release -- --release-as <<NumberVersion>>`
-Una vez se nos genere el commit con la nueva versión de la app ejecutaremos el siguiente comando para publicarla:
-`git push --follow-tags origin master`
+Cuando queramos generar una nueva versión de la app ejecutaremos el siguiente comando:\
+`npm run release -- --release-as <<NumberVersion>>`\
+Una vez se nos genere el commit con la nueva versión de la app ejecutaremos el siguiente comando para publicarla:\
+`git push --follow-tags origin master`\
 
 ## 📑 Scripts.
 ### 🌀 GitHub Actions.
