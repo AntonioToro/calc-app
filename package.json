@@ -41,8 +41,8 @@
   ],
   "devDependencies": {
     "gh-pages": "4.0.0",
-    "picocolors": "^1.0.0",
+    "picocolors": "1.0.0",
     "replace": "1.2.2",
-    "standard-version": "9.5.0"
+    "standard-version": "9.5.0" 
   }
 }
