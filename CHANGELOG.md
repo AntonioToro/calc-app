@@ -2,19 +2,6 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [1.3.0](https://github.com/AntonioToro/calc-app/compare/v1.2.3...v1.3.0) (2023-01-08)
-
-
-### Features
-
-* **Config:** :wrench: create new script update-version-badge.js ([47e4c04](https://github.com/AntonioToro/calc-app/commit/47e4c049fe27a7bc6023de214dd1619a9f1d897b))
-* **Config:** :wrench: launch update-version-badge.js script when use standar-version to create new version ([b3d6475](https://github.com/AntonioToro/calc-app/commit/b3d6475937b75c94961e0798813840f4bdf4edb6))
-* **GitHub:** :wrench: add base_branch in script publish.page.yml ([430a50d](https://github.com/AntonioToro/calc-app/commit/430a50df51e20d337d99b3b1068048cb67d73462))
-* **GitHub:** :wrench: add params lfs and token in script publish-page.yml ([29aba68](https://github.com/AntonioToro/calc-app/commit/29aba680b58952e91c12d5760b38ed7be523c184))
-* **GitHub:** :wrench: remove param token in publish-page.yml ([ec140ab](https://github.com/AntonioToro/calc-app/commit/ec140ab83a2595c4c671c0a68e47b21e9759ba22))
-* **libraries:** :package: install new packages picocolors and replace ([432f88d](https://github.com/AntonioToro/calc-app/commit/432f88d9fe2bff32a8b7ce8ed2efa379afb0374e))
-* **Scripts:** :hammer: create new script update-version-badge.js ([fab3d8e](https://github.com/AntonioToro/calc-app/commit/fab3d8e121b161f57e87d0d26ba50fd32694752d))
-
 ### [1.2.6](https://github.com/AntonioToro/calc-app/compare/v1.2.3...v1.2.6) (2023-01-05)
 
 
