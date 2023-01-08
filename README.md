@@ -38,7 +38,7 @@ Para generar una nueva versión de la app hacemos uso de la libreria [standard-v
 Cuando queramos generar una nueva versión de la app ejecutaremos el siguiente comando:\
 `npm run release -- --release-as <<NumberVersion>>`\
 Una vez se nos genere el commit con la nueva versión de la app ejecutaremos el siguiente comando para publicarla:\
-`git push --follow-tags origin master`\
+`git push --follow-tags origin master`
 
 ## 📑 Scripts.
 ### 🌀 GitHub Actions.
