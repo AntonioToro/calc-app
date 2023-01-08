@@ -2,6 +2,7 @@
   "name": "calc-app",
   "version": "1.2.6",
   "private": true,
+  "homepage": "https://antoniotoro.github.io/calc-app/",
   "dependencies": {
     "@types/jest": "26.0.4",
     "@types/lodash.words": "4.2.6",
