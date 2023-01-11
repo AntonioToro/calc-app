@@ -1,14 +1,14 @@
 /* eslint no-eval:0 */
 
-import React, {useState} from 'react';
+import { useState, FC } from 'react'
 import words from 'lodash.words'
-import Functions from './components/Functions';
-import MathOperations from './components/MathOperations';
-import Numbers from './components/Numbers';
-import Result from './components/Result';
-import './App.css';
+import Functions from './components/Functions'
+import MathOperations from './components/MathOperations'
+import Numbers from './components/Numbers'
+import Result from './components/Result'
+import './App.css'
 
-const App = () => {
+const App: FC = () => {
     const [ stack, setStack ] = useState("")
 
     const items = words(stack, /[^-^+^*^/^]+/g)
@@ -30,7 +30,7 @@ const App = () => {
         <MathOperations 
             onClickOperation={ operation => setStack(`${stack}${operation}`) }
             onClickEqual={ equal => setStack(eval(stack).toString()) }/>
-    </main>);
+    </main>)
 }
 
-export default App;
+export default App
