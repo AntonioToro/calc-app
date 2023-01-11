@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/AntonioToro/calc-app/compare/v1.4.0...v1.4.1) (2023-01-11)
+
+
+### Features
+
+* **libraries:** :package: Update react-scripts to 5.0.1 ([e027f20](https://github.com/AntonioToro/calc-app/commit/e027f20a113c4ae6a6401b95313a8f2db834e73b))
+
 ## [1.4.0](https://github.com/AntonioToro/calc-app/compare/v1.3.0...v1.4.0) (2023-01-11)
 
 ## [1.3.0](https://github.com/AntonioToro/calc-app/compare/v1.2.3...v1.3.0) (2023-01-08)
