@@ -8,11 +8,15 @@ import Numbers from './components/Numbers'
 import Result from './components/Result'
 import './App.css'
 
+/**
+ * Componente principal de la aplicación.
+ * @returns - Todos los componentes para mostrar la calculadora.
+ */
 const App: FC = () => {
     const [ stack, setStack ] = useState("")
 
-    const items = words(stack, /[^-^+^*^/^]+/g)
-    const value = items.length > 0 ? items[items.length-1] : '0'
+    const items = words(stack, /[^-^+^*^/^]+/g) // Formateamos el contenido del stack para mostrar en la calculadora solo el numero y no los simbolos de las operaciones matemáticas.
+    const value = items.length > 0 ? items[items.length-1] : '0' // Formateamos el contenido de value para mostrar solo el último número marcado en la calculadora.
 
     return (
     <main className='react-calculator'>
