@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/AntonioToro/calc-app/compare/v1.4.1...v1.5.0) (2023-01-19)
+
+
+### Features
+
+* **libraries:** :package: remove library prop-types ([#3](https://github.com/AntonioToro/calc-app/issues/3)) ([4173a64](https://github.com/AntonioToro/calc-app/commit/4173a6418c583be2310ec908982b5212486abda3))
+
 ### [1.4.1](https://github.com/AntonioToro/calc-app/compare/v1.4.0...v1.4.1) (2023-01-11)
 
 
