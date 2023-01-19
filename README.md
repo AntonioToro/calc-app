@@ -24,7 +24,6 @@
 ## 📚 Librerias del Proyecto.
 * [ReactJs](https://es.reactjs.org/) (v16.13.1) - El framework web usado.
 * [Lodash](https://lodash.com/) (v4.2.0) - Libreria con utilidades de JavaScript.
-* [Prop-Types](https://www.npmjs.com/package/prop-types) (v15.7.2) - Libreria de tipados de las propiedades de los componentes.
 * [Standard Version](https://www.npmjs.com/package/standard-version) (v9.5.0) - Libreria para el control de versiones de la aplicación.
 
 ## 📚🔨 Librerias de Desarrollo.
